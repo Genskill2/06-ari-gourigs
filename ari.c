@@ -7,7 +7,7 @@
 string ari(string s)
         {
 	int len,n_word=0,n_char=0,n_sent=0;
-	string grade;
+	string result;
 	len = strlen(s);
 	for(int i=0;i<len;i++)
          {
